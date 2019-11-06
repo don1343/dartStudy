@@ -6,7 +6,7 @@
   "configurations": [
     {
       "name": "Dart",
-      "program": "function_declaration.dart",
+      "program": "calculated_property.dart",
       "request": "launch",
       "type": "dart"
     }
